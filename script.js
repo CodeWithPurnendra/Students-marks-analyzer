@@ -11,7 +11,7 @@ for (let i = 0; i < marks.length; i++) {
 console.log("The total marks is: ", totalMarks);
 
 for (let i = 0; i < marks.length; i++) {
-  average = totalMarks / 6;
+  average = totalMarks / marks.length;
 }
 
 console.log("The total average is: ", average);
@@ -20,7 +20,7 @@ for (let i = 0; i < marks.length; i++) {
   if (marks[i] > highest) {
     highest = marks[i];
   } else {
-    lowest = marks[i];
+    lowest = marks[0];
   }
 }
 console.log("The total highest marks of is: ", highest);
