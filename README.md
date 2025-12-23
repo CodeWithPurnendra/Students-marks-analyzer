@@ -99,5 +99,5 @@ You can also run this project directly in your browser:
 
 ## 👨‍💻 Author
 
-**Ravi Kumar**  
+**Purnendra Kumar**  
 Learning JavaScript step by step 🚀
